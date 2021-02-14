@@ -15,9 +15,9 @@ body {
     padding left: 35px;
 }
 .titulo2{
-    color: royalblue;
+    color: whitesmoke;
     text-align: center;
-    font-style: arial;
+    font-style: italic;
 }
 .encabezado{
     height: 15%;
@@ -41,7 +41,7 @@ th {
     padding-right: 15px;
     padding-bottom: 25px;
     padding-left: 35px;
-    font-style: arial;
+    font-style: helvetica;
 }
 .cntenedor {
     height: 100%;
