@@ -1,0 +1,54 @@
+html,
+body {
+    height: 100%;
+    background-color: black;
+}
+.titulo1{
+    color: whitesmoke;
+    text-align: center;
+    background-color: red;
+    height: 15%;
+    margin: 2% 2%;
+    padding-top: 25px;
+    padding-right: 15%;
+    padding bottom: 25px;
+    padding left: 35px;
+}
+.titulo2{
+    color: royalblue;
+    text-align: center;
+    font-style: arial;
+}
+.encabezado{
+    height: 15%;
+    margin: 1% 1%;
+    background-color: black;
+    padding-top: 25px;
+    padding-right: 15px;
+    padding-bottom: 25px;
+    padding-left: 35px;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+table, 
+td, 
+th {
+    border: 1px solid black;
+    text-align: justify;
+    padding-top: 25px;
+    padding-right: 15px;
+    padding-bottom: 25px;
+    padding-left: 35px;
+    font-style: comic;
+}
+.cntenedor {
+    height: 100%;
+    margin: 2% 2%;
+    background-color: blue;
+    padding-top: 25px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    padding-left: 35px;
+}
