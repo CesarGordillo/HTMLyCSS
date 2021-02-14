@@ -4,9 +4,9 @@ body {
     background-color: black;
 }
 .titulo1{
-    color: whitesmoke;
+    color: red;
     text-align: center;
-    background-color: red;
+    background-color: whitesmoke;
     height: 15%;
     margin: 2% 2%;
     padding-top: 25px;
@@ -22,7 +22,7 @@ body {
 .encabezado{
     height: 15%;
     margin: 1% 1%;
-    background-color: black;
+    background-color: grey;
     padding-top: 25px;
     padding-right: 15px;
     padding-bottom: 25px;
@@ -35,7 +35,7 @@ table {
 table, 
 td, 
 th {
-    border: 1px solid black;
+    border: 1px solid white;
     text-align: justify;
     padding-top: 25px;
     padding-right: 15px;
@@ -46,7 +46,7 @@ th {
 .cntenedor {
     height: 100%;
     margin: 2% 2%;
-    background-color: blue;
+    background-color: grey;
     padding-top: 25px;
     padding-right: 15px;
     padding-bottom: 15px;
